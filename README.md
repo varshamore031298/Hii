@@ -1,2 +1,2 @@
-# Hii
+print("hello world")
 This is my first repository 
